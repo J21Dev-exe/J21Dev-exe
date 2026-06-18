@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&lines=J21Dev-exe;Python+Developer;AI%2FML+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=39D353&width=650&lines=Python+Developer;AI%2FML+Learner)](https://git.io/typing-svg)
 ```text
   888888  .d8888b.   d888   8888888b.                                                     
     "88b d88P  Y88b d8888   888  "Y88b                                                    
