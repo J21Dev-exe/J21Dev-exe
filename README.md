@@ -12,3 +12,28 @@
  .d88P"                                                                                   
 888P"
 ```
+
+<h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28" align="center">
+  Tech Arsenal
+</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+
+</div>
